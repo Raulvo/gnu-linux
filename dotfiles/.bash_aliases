@@ -67,6 +67,7 @@ myman() {
     # LESS_TERMCAP_us begin underline
 }
 
+# Aliases are discouraged/deprecated. Export functions instead.
 export -f textpygment
 export -f sourcehighlight
 export -f myman
